@@ -1,0 +1,6 @@
+print("Your Website name Creator!")
+topic_name = input("What is your website NISH? ")
+print (f"Your website about {topic_name}")
+website_type = input("what is your Website Type? ")
+print(f"Your are a {website_type}")
+print(f"You can give your website name {topic_name}{website_type}")
